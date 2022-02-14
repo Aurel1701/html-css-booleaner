@@ -34,7 +34,7 @@ table{
     background-color:#2196f3a1;
     height: 150%;
     width: 100%;
-    border:0;
+    border: 0px;
     
 }
 .title-3{
@@ -45,4 +45,11 @@ table{
 .title-footer{
     
     color:grey
+}
+
+.testo-lorem{
+    color:yellow
+}
+.testo-lorem2{
+    color:yellow
 }
